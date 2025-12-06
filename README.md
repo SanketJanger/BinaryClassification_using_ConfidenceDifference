@@ -3,6 +3,7 @@
 =================================================================================================
   
 **Group Members:** Sanket Janger & Niraj Pisal
+Github Username: **SanketJanger**  &   **npisal**
 
 **Course Project – Intro to Machine Learning**
 
